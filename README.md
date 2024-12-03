@@ -6,3 +6,6 @@ The project report, "TME_FINAL_Project_REPORT.pdf", contains screenshots of the 
 "stop_video-3.mp4" contains the video of the output from the model. The video was taken on the streets of Fredericton and fed to the model. It is an example of how the project can be utilized for downstreaming. 
 "best.pt" contains the trained weights of the best performing model, i.e, YOLOv8n.
 model files for YOLO v8n, v9t and v10n are also available.
+
+
+Link to dataset: https://www.kaggle.com/datasets/romilpatel3/traffic-sign-detection-and-classification/data
